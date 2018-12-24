@@ -1,6 +1,6 @@
 # phpxhprof
 php 性能分析
-
+```
 <?php
 
 require 'vendor/autoload.php';
@@ -19,3 +19,4 @@ function tttt() {
 	sleep(3);
 	echo '复制链接访问会有惊喜：';
 }
+```

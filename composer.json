@@ -1,0 +1,16 @@
+{
+    "name": "king192/phpxhprof",
+    "authors": [
+        {
+            "name": "xhq",
+            "email": "1434970057@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"king192\\phpxhprof\\": "src/"
+    	}
+    }
+}

@@ -1,5 +1,6 @@
 # phpxhprof
 php 性能分析
+composer require king192/phpxhprof
 ```
 <?php
 
